@@ -7,5 +7,6 @@ public class TestPartageProjet {
 		System.out.println("Hello World !");
 		System.out.println("Projet RMI Velib");
 
+		System.out.println("Modif 1");
 	}
 }
